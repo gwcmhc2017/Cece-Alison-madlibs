@@ -1,0 +1,49 @@
+body {
+  background-color: LimeGreen;
+}
+h1,
+h2 {
+  font-family: courier, sans-serif;
+}
+a {
+  color: #1929a0;
+}
+
+.highlighted {
+  background-color: #0d0d0d;
+  color: #66ff33;
+  padding: 2px;
+  font-family: monospace;
+}
+
+.title {
+  text-align: center;
+}
+
+.rounded {
+  border-radius: 50%;
+  width: 200px;
+  margin: 40px auto;
+  display: block;
+}
+
+#list-title {
+  color: #37217a;
+}
+
+img {
+  width: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#soccer {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+#button2 {
+  display: none;
+}
